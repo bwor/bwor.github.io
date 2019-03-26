@@ -1,5 +1,5 @@
 # Site settings
-title: 子规鱼的博客
+title: 子规鱼
 description: "A blog about lorem ipsum ..."
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
