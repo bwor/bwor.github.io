@@ -5,9 +5,9 @@ baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: lorem ipsum
+username: 子规鱼
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
+email: 1326876531@qq.com
 twitter_username: loremipsum
 github_username:  loremipsum
 gplus_username:  loremipsum
