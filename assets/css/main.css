@@ -9,16 +9,15 @@ body {
     html {
         font-size: 37.5px!important;
     }
+    body {
+        margin: 0 auto;
+        max-width: 750px;
+    }
 }
 
 @media screen and (min-device-width: 480px) {
     html {
         font-size: 37.5px !important;
-    }
-
-    body {
-        margin: 0 auto;
-        max-width: 750px;
     }
 }
 
